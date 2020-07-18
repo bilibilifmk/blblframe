@@ -6,7 +6,7 @@
 * 请使用官方烧录工具进行烧录 
 * 由于不想让本项目成为商品，固件不开源。
 
-
+## pcb及原理图请跳转立创eda： https://oshwhub.com/hbk444/b-zhan-fen-si-shuo-xian
 ## 材料清单
 
 * pcb 
