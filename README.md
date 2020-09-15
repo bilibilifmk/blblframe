@@ -2,9 +2,9 @@
 
 # 体验稳定功能及所有功能请直接使用固件，源码只适合有开发基础的人用（不想去解答啥，小白们经常问一下无脑问题很烦）
 
-* 获取uid 电脑个人主页后数字，手机版在个人资料中
+* 获取uid 电脑个人主页后数字，手机版在个人资料中  
 ![img](https://github.com/bilibilifmk/blblframe/blob/master/buid.png)  
-* 烧录配置
+* 烧录配置  
 ![img](https://github.com/bilibilifmk/blblframe/blob/master/%E7%83%A7%E5%BD%95%E9%85%8D%E7%BD%AE.png)  
 
 # 说明：
