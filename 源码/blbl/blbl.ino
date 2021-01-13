@@ -1,3 +1,5 @@
+#define FS_CONFIG
+//兼容1.1.x版本库
 #include <wifi_link_tool.h>
 #include <ArduinoJson.h>
 #include <String.h>
